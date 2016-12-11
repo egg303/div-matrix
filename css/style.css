@@ -1,0 +1,33 @@
+body{
+	background-color: #ccc;
+}
+
+button{
+	min-width:80px;
+	min-height: 30px;
+	margin:10px 20px 3px 20px;
+}
+
+#wrapper{
+	display: inline-block;
+	border:3px solid #666;
+	background-color: #fff;
+}
+
+#container{
+	margin:8px 8px 4px 8px;
+	display: inline-block;
+	background-color: #fff;
+
+}
+
+.column{
+	display: inline-block;
+}
+
+.atom{
+	background-color: #fff;
+	border: 0;
+	padding: 0;
+	opacity: 0.0;
+}
